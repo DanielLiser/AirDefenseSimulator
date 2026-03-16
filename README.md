@@ -55,4 +55,4 @@ A reactive dashboard designed for real-time situational awareness:
 ## 📜 Educational Concepts Implemented
 * **Thread Starvation Prevention:** Optimized loops and proper synchronization to prevent CPU 100% spikes.
 * **Resource Synchronization:** Using Locks and Semaphores to manage shared state.
-* **Event-Driven Programming:** Using
+* **Event-Driven Programming:** 
