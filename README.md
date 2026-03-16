@@ -2,7 +2,7 @@
 
 A high-performance, real-time air defense simulation system. This project features a **C# backend** acting as the Physics & Battle Management Engine and a **Python frontend** serving as a Command & Control (C2) Dashboard. The two systems communicate over a low-latency **TCP Socket** using JSON-structured data.
 
-[Image of a high-level software architecture diagram showing C# server and Python client communicating over TCP/IP]
+
 
 ## 🚀 System Architecture
 
